@@ -1,0 +1,36 @@
+body{
+    background: #8AE234;
+}
+footer{
+    font-size: 28px;
+    font-family: fantasy;
+    transform: translate(700px, -180px);
+}
+h1{
+    transform: translate(650px, -600px);
+    font-family: monospace;
+    font-size: 30px;
+    color: blue;
+}
+button{
+    height: 50px;
+    transform: translate(650px, -370px);
+    width: 110px;
+    border-radius: 5px;
+    font-size: 15px;
+
+}
+
+button:hover{
+        border-color: gray;
+
+}
+#ventana{
+    width: 600px;
+    height: 600px;
+    border-style: outset;
+
+}
+#reset{
+    transform: translate(310px, -270px);
+}
